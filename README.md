@@ -1,3 +1,12 @@
+> This project has two homes.
+> It is ok to work in github, still, for a better decentralized web
+> please consider contributing (issues, PR, etc...) throught:
+>
+> https://gitlab.esy.fun/yogsototh/elm-architecture-tutorial
+
+---
+
+
 # The Elm Architecture
 
 This tutorial outlines “The Elm Architecture” which you will see in all [Elm][] programs, from [TodoMVC][] and [dreamwriter][] to the code running in production at [NoRedInk][] and [CircuitHub][]. The basic pattern is useful whether you are writing your front-end in Elm or JS or whatever else.
